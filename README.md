@@ -79,7 +79,7 @@ Hadoop on Linux includes optional Native IO support. However Native IO is mandat
 
 infoThe following repository already pre-built Hadoop Windows native libraries:
 
-https://github.com/madhu-111/Hadoop/tree/master/winutils/hadoop-3.3.0-YARN-8246/bin
+https://github.com/madhu-111/Hadoop/winutils/hadoop-3.3.0-YARN-8246/bin
 
 warning These libraries are not signed and there is no guarantee that it is 100% safe. We use it purely for test&learn purpose.
 
